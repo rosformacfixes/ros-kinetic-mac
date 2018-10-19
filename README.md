@@ -60,3 +60,5 @@ brew link --overwrite formula_name"
 ```
 
 Do execute the overwrite command as long as you won't have any issue with other things. It may be necessary.
+
+I won't get any emails/notifications if you have any issues. So, if you have any issues, contact me via Discord: Bob Jones#5612
