@@ -1,6 +1,6 @@
 # ros-kinetic-mac
 
-This is for the full kinetic installation.
+This is for the desktop-full install of ros kinetic.
 
 To complete this installation, follow http://wiki.ros.org/kinetic/Installation/OSX/Homebrew/Source up to the point where you see this command:
 
